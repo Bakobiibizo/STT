@@ -1,0 +1,5 @@
+*.txt
+audio
+$HOME
+*.pbmm
+*.scorer
